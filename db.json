@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "David",
+      "telefono": "987 654 321",
+      "correo": "correo@correo.com",
+      "nombreEmpresa": "Empresa 1",
+      "id": 1
+    },
+    {
+      "nombre": "Juan",
+      "telefono": "978 979 797",
+      "correo": "correo@correo3.com",
+      "nombreEmpresa": "Empresa S.A.",
+      "id": 3
+    }
+  ]
+}
